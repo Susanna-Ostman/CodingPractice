@@ -1,2 +1,2 @@
 # CodingPractice
-Just practising coding
+Documentation of installing Developer Workspace
